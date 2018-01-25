@@ -1,5 +1,5 @@
 # ClassifiedApp-Demo
-ClassifiedApp demo developped using React-Native
+ClassifiedApp demo developed using React-Native
 
 ### Screenshots
 
